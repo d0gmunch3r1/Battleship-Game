@@ -182,6 +182,7 @@
             this.OpponentBoard.Enabled = false;
             this.OpponentBoard.GridColor = System.Drawing.SystemColors.Highlight;
             this.OpponentBoard.Location = new System.Drawing.Point(561, 77);
+            this.OpponentBoard.MultiSelect = false;
             this.OpponentBoard.Name = "OpponentBoard";
             this.OpponentBoard.ReadOnly = true;
             this.OpponentBoard.RowHeadersVisible = false;
